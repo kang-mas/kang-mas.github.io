@@ -1,0 +1,12 @@
+# site setting
+title:
+email:
+author:
+description:
+url:
+
+# Build Setting
+permalink: :title/
+sass:
+ sass_dir: css
+
